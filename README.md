@@ -3,7 +3,7 @@
 To set up and run a React project, follow these detailed steps:
 
 1. Clone or Download the React Project
-Clone it using: git clone git@github.com:rizqizyd/todo-list-app.git
+Clone it using: git clone https://github.com/ShubhranshiPatel/todo-list-app.git
 
 2. Install Project Dependencies
 Once inside the project directory, install the required dependencies using: npm install
