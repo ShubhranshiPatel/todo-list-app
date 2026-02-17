@@ -1,4 +1,4 @@
-## Todo List application using ReactJS with TypeScript, state management via Zustand, and Tailwind CSS for styling
+## Todo List application using ReactJS with TypeScript, state management, and Tailwind CSS for styling
 
 To set up and run a React project, follow these detailed steps:
 
